@@ -1,0 +1,15 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+d3d: no support for this device type (accelerated/ref)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+d3d: no support for this device type (accelerated/ref)
+Failed to initialize Direct3D.
+Make sure you have at least DirectX 9.0c installed, have drivers for your
+graphics card and have not disabled 3D acceleration
+in display settings.
+InitializeEngineGraphics failed
+PlayerInitEngineGraphics: InitializeEngineGraphics failed
