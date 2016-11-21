@@ -52,6 +52,9 @@ public class BossBleu : BaseEnnemi {
 	
 	// Update is called once per frame
 	void Update () {
+		if (ecart < 0.25f)
+			// ecart = 0.25f;
+		
 		if (avance)
 			transform.position += new Vector3 (0, -0.005f, 0);
 		
