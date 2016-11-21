@@ -25,4 +25,4 @@ Severin michaut (severinmichaut@gmail.com)
 
 License : 
 
-using MIT license
+this project is using MIT license
