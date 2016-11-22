@@ -48,7 +48,7 @@ public class Charger : MonoBehaviour {
 		liste.Add (mechant5);
 		liste.Add (mechant6);
 		liste.Add (mechant7);
-		//liste.Add (mechant8); 
+		liste.Add (mechant8); 
 	}
 	
 	// Update is called once per frame
