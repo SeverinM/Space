@@ -24,6 +24,9 @@ public class Charger : MonoBehaviour {
 	public GameObject projectilesimple;
 	public GameObject projectilejoueur;
 
+	public AudioClip bossmusic;
+	public AudioClip battlemusic;
+
 	private bool fin;
 
 	private float probaboost;
@@ -70,6 +73,10 @@ public class Charger : MonoBehaviour {
 		}
 
 		if (!(boss) && Time.timeSinceLevelLoad - temps2 >= ecart2 && !(fin)) { //On crée un boss aleatoire
+			GameObject.Find("Musique").GetComponent<AudioSource>().clip = bossmusic;
+			GameObject.Find ("Musique").GetComponent<AudioSource> ().Play ();
+			GameObject.Find ("Musique").GetComponent<AudioSource> ().volume = 0.5f;
+
 			changerEtat ();
 			gob = (GameObject)Instantiate (typeboss);
 			GameObject.Find ("Warning").GetComponent<Animator> ().Play ("Warning");
@@ -83,6 +90,9 @@ public class Charger : MonoBehaviour {
 	}
 
 	public void FixerTemps(){ //Appellée quand un boss est detruit, est utilisé pour monter la difficulté 
+		GameObject.Find("Musique").GetComponent<AudioSource>().clip = battlemusic;
+		GameObject.Find ("Musique").GetComponent<AudioSource> ().Play ();
+
 		temps2 = Time.timeSinceLevelLoad;
 		ecart2 += Random.Range (-10f, 10f);
 		if (ecart2 < 30f) //on laisse au minimum 30 secondes entre chaque boss

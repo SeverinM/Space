@@ -14,6 +14,7 @@ public class Recommencer : MonoBehaviour {
 	}
 
 	public void Restart(){
+		GameObject.Find ("Musique").GetComponent<AudioSource> ().volume = 1;
 		UnityEngine.SceneManagement.SceneManager.LoadScene("niveau");
 	}
 }

@@ -52,13 +52,14 @@ public class BossBleu : BaseEnnemi {
 	
 	// Update is called once per frame
 	void Update () {
-		if (ecart < 0.25f)
-			ecart = 0.25f;
+		if (ecart < 0.1f) //Par soucis de performance, on cap le boss
+			ecart = 0.1f;
 		
 		if (avance)
 			transform.position += new Vector3 (0, -0.005f, 0);
 		
 		if (transform.position.y < 1 && !(passage)) {
+			GameObject.Find ("Musique").GetComponent<AudioSource> ().volume = 1;
 			this.tag = "Ennemy";
 			avance = false;
 			barre.SetActive (true);
@@ -120,13 +121,13 @@ public class BossBleu : BaseEnnemi {
 
 	void AttaqueCirculaire2(){
 		GameObject gob = SimplePool.Spawn (projectileSimple, transform.position, new Quaternion ());
-		gob.GetComponent<BaseProjectile> ().setDirection (new Vector2 (Mathf.Cos (angle), Mathf.Sin (angle)));
+		gob.GetComponent<BaseProjectile> ().setDirection (new Vector2 (Mathf.Cos (angle + Random.Range(-0.05f,0.05f)), Mathf.Sin (angle)));
 		gob.GetComponent<BaseProjectile> ().setDegat (1);
 		gob.GetComponent<BaseProjectile> ().setVitesse (0.04f);
 		gob.tag = "EnnemyBullet";
 
 		gob = SimplePool.Spawn (projectileSimple, transform.position, new Quaternion ());
-		gob.GetComponent<BaseProjectile> ().setDirection (new Vector2 (-Mathf.Cos (angle), Mathf.Sin (angle)));
+		gob.GetComponent<BaseProjectile> ().setDirection (new Vector2 (-Mathf.Cos (angle + Random.Range(-0.05f,0.05f)), Mathf.Sin (angle)));
 		gob.GetComponent<BaseProjectile> ().setDegat (1);
 		gob.GetComponent<BaseProjectile> ().setVitesse (0.04f);
 		gob.tag = "EnnemyBullet";
