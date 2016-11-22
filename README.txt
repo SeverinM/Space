@@ -1,27 +1,28 @@
 Synopsis :
 
-This is my first "real" game made with unity. I never thought to publish my game before but when i saw my game became bigger and bigger i thought it can be a good idea.
-As i assumed my game will be never published, the code and the game is wrote in french. But i'm going to translate them as soon as possible.
+This is my first "real" game made with unity. I never thought to publish it before but when i saw it became bigger and bigger i thought it can be a good idea.
+As i assumed my game will never be published, the code and the game is written in french. 
+But i'm going to translate them as soon as possible.
 
 This game is a simple endless space shooter with bosses : the longer you survive the harder ennemies are.
-There are a highscore board, but it's not currently working because i have nowhere to host my database
+There is a highscore board, but it's not currently working because i have nowhere to host my database.
 
 
 Motivation : 
 
-I made this game to learn how to use unity but also for show my personnal projects and for fun ! 
+I made this game to learn how to use unity but also to show my personnal projects and for fun ! 
 
 
-Tests : 
+Code description : 
 
-There are mainly 2 objects types in this game : Bullets and ennemies
-
+There are mainly 2 object's types in this game : Bullets and ennemies
+Until translation and despite written in french, most of the time classes' name are self-explanatory, since english and french languages share vocabulary or are quite close, sometimes...
   Bullets :
     -Bullet are created and destroyed using the "pooling" method
-    -every bullet class is inherited from abstract class "BaseProjectile"
-    -Every bullet objects got a speed (can be negative), an initial position,a direction, a damage number (only positive) and a boolean which show if this bullet is perforating or not
+    -Every bullet class is inherited from abstract class "BaseProjectile"
+    -Every bullet objects got a speed (can be negative), an initial position, a direction, a damage number (only positive) and a boolean which show if this bullet is perforating or not
     - Every bullet is destroyed when it left the main camera sight
-    - Every time you set a direction , the vector's lenght is always set to 1 as the speed is defined by the property "vitesse"
+    - Every time you set a direction , the vector's length is always set to 1 as the speed is defined by the property "vitesse", which means speed in french
     
   Ennemies : 
     - Every ennemy class is inherited from abstract class "BaseEnnemie", including bosses
@@ -29,15 +30,16 @@ There are mainly 2 objects types in this game : Bullets and ennemies
     - Every ennemy is destroyed when it left the main camera sight
     - Every ennemy object got some defaut function : Booster (make the ennemy harder), Detruire (called when HP is equal or below 0 ), Soigner (called when ennemy is healed), perdreVie (called when ennemy lost a life).
     
-Ennemis et bullets interact depending their tag : for example Gameobject with tag "Player" will only detect a collision with gameObject "EnnemyBullet"
+Ennemis and bullets interact depending their tag : for example Gameobject with tag "Player" will only detect a collision with gameObject "EnnemyBullet"
 
+Feel free to contact me or pull requests. I'll also be happy to have advices or criticism.
 
 Contributors :
 
-I'm currently alone on this project.
+I'm currently the only developer on this project. Pull requests highly appreciated. But perhaps most of you will have to wait for a proper english translation :-)
 Severin michaut (severinmichaut@gmail.com)
 
 
 License : 
 
-this project is using MIT license
+this project is under MIT license
