@@ -12,6 +12,9 @@ Motivation :
 
 I made this game to learn how to use unity but also to show my personnal projects and for fun ! 
 
+How to laucnh the game : 
+
+Just download the Space.exe standalone
 
 Code description : 
 
