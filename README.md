@@ -15,6 +15,7 @@ I made this game to learn how to use unity but also to show my personnal project
 ## How to launch the game : 
 
 Just download the Space.exe standalone
+This game can be player on Windows / Mac / Linux
 
 ##Screenshots :
 
