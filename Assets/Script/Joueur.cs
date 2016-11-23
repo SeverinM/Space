@@ -189,6 +189,8 @@ public class Joueur : MonoBehaviour {
 	}
 
 	public void GameOver(){
+		suivre = false;
+		tag = "Untagged";
 		GetComponent<Animator> ().Play ("Destruction");
 		GameObject.Find ("Generateur").GetComponent<Charger> ().changerEtat ();
 		Destroy (GetComponent<Rigidbody> ());

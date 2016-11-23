@@ -1,13 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BossBleu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Joueur.cs">
     <Files>
       <File FileName="Assets\Script\ProjectileFrag.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\Charger.cs" Line="93" Column="77" />
+      <File FileName="Assets\Script\Charger.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\VaisseauBleu.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\Joueur.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\BossBleu.cs" Line="130" Column="132" />
-      <File FileName="Assets\Script\Recommencer.cs" Line="17" Column="71" />
+      <File FileName="Assets\Script\Joueur.cs" Line="193" Column="20" />
+      <File FileName="Assets\Script\BossBleu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Recommencer.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\InterfaceMySQL1.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
