@@ -31,7 +31,7 @@ Until translation and despite written in french, most of the time classes' name 
     * Every ennemy class is inherited from abstract class *BaseEnnemie*, including bosses
     * Every ennemy object got a score value, an HP value, an explosion range (currently unused), a bonus drop probability and a destroy sound
     * Every ennemy is destroyed when it left the main camera sight
-    * Every ennemy object got some defaut function : Booster (make the ennemy harder), Detruire (called when HP is equal or below 0 ), Soigner (called when ennemy is healed), perdreVie (called when ennemy lost a life).
+    * Every ennemy object got some defaut function : *Booster* (make the ennemy harder), *Detruire* (called when HP is equal or below 0 ), *Soigner* (called when ennemy is healed), *perdreVie* (called when ennemy lost a life).
     
 **Ennemis and bullets interact depending their tag** : for example Gameobject with tag *Player* will only detect a collision with gameObject *EnnemyBullet*
 
