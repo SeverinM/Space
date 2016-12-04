@@ -14,14 +14,1802 @@ Platform assembly: H:\Jeu Unity\Space3\space_Data\Managed\UnityEngine.UI.dll (th
 Loading H:\Jeu Unity\Space3\space_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: H:\Jeu Unity\Space3\space_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading H:\Jeu Unity\Space3\space_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.256 seconds
 Platform assembly: H:\Jeu Unity\Space3\space_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: H:\Jeu Unity\Space3\space_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.616247 ms
+UnloadTime: 0.616675 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.124715 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 625.
+Total: 1.001136 ms (FindLiveObjects: 0.035495 ms CreateObjectMapping: 0.029935 ms MarkObjects: 0.323733 ms  DeleteObjects: 0.611116 ms)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1094)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 690)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Charger.GameOver () [0x00000] in <filename unknown>:0 
+  at Joueur.GameOver () [0x00000] in <filename unknown>:0 
+  at Joueur.touche () [0x00000] in <filename unknown>:0 
+  at ProjectileSimple.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+There was an error getting the high score: Failed to connect to localhost port 80: Connection refused
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[BaseEnnemi] () [0x00000] in <filename unknown>:0 
+  at BarreVie.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1c78 -> priority: 1 
-  Thread -> id: 1cb0 -> priority: 1 
+  Thread -> id: e1c -> priority: 1 
+  Thread -> id: 1b78 -> priority: 1 

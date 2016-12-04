@@ -16,7 +16,7 @@ public class Charger : MonoBehaviour {
 	public GameObject mechant8;
 
 	private GameObject gob;
-	private bool boss; //Auncun ennemi ne spawn normalement si cette variable est vrai
+	private bool boss; //Auncun ennemi ne spawn si cette variable est vrai
 	public float ecart2; //La frequence d'apparition d'un boss
 	private float temps2;
 	public GameObject typeboss;
@@ -51,7 +51,7 @@ public class Charger : MonoBehaviour {
 		liste.Add (mechant5);
 		liste.Add (mechant6);
 		liste.Add (mechant7);
-		liste.Add (mechant8); 
+		//liste.Add (mechant8); 
 	}
 	
 	// Update is called once per frame
