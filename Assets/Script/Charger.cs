@@ -26,6 +26,7 @@ public class Charger : MonoBehaviour {
 
 	public AudioClip bossmusic;
 	public AudioClip battlemusic;
+	public AudioClip warningSound;
 
 	private bool fin;
 
@@ -51,7 +52,7 @@ public class Charger : MonoBehaviour {
 		liste.Add (mechant5);
 		liste.Add (mechant6);
 		liste.Add (mechant7);
-		//liste.Add (mechant8); 
+		liste.Add (mechant8); 
 	}
 	
 	// Update is called once per frame
@@ -76,6 +77,8 @@ public class Charger : MonoBehaviour {
 			GameObject.Find("Musique").GetComponent<AudioSource>().clip = bossmusic;
 			GameObject.Find ("Musique").GetComponent<AudioSource> ().Play ();
 			GameObject.Find ("Musique").GetComponent<AudioSource> ().volume = 0.5f;
+
+			GameObject.Find ("Son").GetComponent<AudioSource> ().PlayOneShot (warningSound,1);
 
 			changerEtat ();
 			gob = (GameObject)Instantiate (typeboss);

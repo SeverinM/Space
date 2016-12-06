@@ -20,7 +20,7 @@ public abstract class BaseEnnemi : MonoBehaviour {
 	public GameObject gob2;
 	public GameObject touche;
 	public GameObject bonus;
-	protected int probabonus = 20; //La probabilité qu'un bonus apparaisse a la mort 
+	protected int probabonus = 15; //La probabilité qu'un bonus apparaisse a la mort 
 
 	public AudioClip explosion; //Son enclenché quand un vaisseau se fait touché ou est detruit
 
@@ -77,7 +77,7 @@ public abstract class BaseEnnemi : MonoBehaviour {
 	public virtual void Booster(){
 		Color col = GetComponent<SpriteRenderer> ().color;
 		GetComponent<SpriteRenderer> ().color = new Color (col.r, col.g - 0.1f, col.b - 0.1f);
-		probabonus += 2; //A chaque fois qu'un ennemi est boosté, il a 2% de chance en plus de lacher un bonus a sa mort
+		probabonus += 1; //A chaque fois qu'un ennemi est boosté, il a 1% de chance en plus de lacher un bonus a sa mort
 		pvMax = vie;
 	}
 

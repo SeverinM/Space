@@ -36,7 +36,7 @@ public class ProjectileFrag : ProjectileSimple{
 
 	void Fragmentation(){
 		int nombre = 360 / nbproj;
-		for (int i = 0; i < nbproj; i++) {
+		for (float i = 0 + Random.Range(0,0.2f); i < nbproj; i++) {
 			// gob = (GameObject)(Instantiate(projectile,transform.position,new Quaternion()));
 			gob = SimplePool.Spawn(projectile,transform.position,new Quaternion());
 			ProjectileSimple proj = gob.GetComponent<ProjectileSimple>();

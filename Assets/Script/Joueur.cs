@@ -30,12 +30,24 @@ public class Joueur : MonoBehaviour {
 	public AudioClip sontouche;
 	public AudioClip sonbonus;
 
-	public GameObject affichageBonus;
+	public AudioClip extraLife;
+	public AudioClip perforating;
+	public AudioClip laserUp;
+	public AudioClip Shield;
+	public AudioClip sonBoost;
+	public AudioClip Destr;
+
+	public GameObject affichageBonus; //Game object crée lorsque le joueur recoit un bonus
 	public GameObject shield; //Objet instancié lorsque l'on recoit le bonus "invincible"
+
+	public GameObject AffichageBoost;
+	public GameObject AffichagePerforant;
+	public GameObject AffichageLaser;
+	public GameObject AffichageShield;
 
 	// Use this for initialization
 	void Start () {
-		vie = 5;
+		vie = 3;
 		ecart = 0.2f;
 		invincible = false;
 		suivre = true;
@@ -172,6 +184,8 @@ public class Joueur : MonoBehaviour {
 
 			GameObject gameobj2 = (GameObject)Instantiate (objtouche, new Vector3(transform.position.x + Random.Range(-larg / 2,larg / 2),transform.position.y + Random.Range(-haut / 2,haut / 2),0),new Quaternion());
 			gameobj2.transform.SetParent (this.transform);
+			Invincible (false);
+
 		}
 	}
 
@@ -204,14 +218,13 @@ public class Joueur : MonoBehaviour {
 
 	public void OnTriggerEnter2D(Collider2D col){
 		if (col.tag == "Ennemy")
-			touche ();			
+			touche ();	
 	}
 
 	public void GetBonus(){ //Lorsque l'on a un bonus, on choisit un effet aleatoire
-		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(sonbonus);
 		switch (Random.Range (1, 7)) {
 		case 2:
-			if (Random.Range (1, 5) > vie) //Plus on a de vie et moins on a de chance d'avoir un bonus 'vie supplementaire'
+			if (Random.Range (1, 4) > vie) //Plus on a de vie et moins on a de chance d'avoir un bonus 'vie supplementaire'
 				ExtraLife ();
 			else
 				GetBonus ();
@@ -236,7 +249,7 @@ public class Joueur : MonoBehaviour {
 	
 		default :
 			if (transform.childCount == 0) //On ne peut avoir qu'un seul bouclier a chaque fois
-				Invincible ();
+				Invincible (true);
 			else
 				GetBonus (); //Dans ce cas on reroll le bonus
 			break;
@@ -244,47 +257,66 @@ public class Joueur : MonoBehaviour {
 	}
 
 	private void ExtraLife(){
+		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(extraLife);
 		GameObject gameobj = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
-
 		gameobj.GetComponent<UnityEngine.UI.Text> ().text = "Vie supplementaire";
 		vie += 1;
 		GameObject.Find ("vie").GetComponent<UnityEngine.UI.Text> ().text = System.Convert.ToString (vie);
 		if (boost3) { //Quand le bonus est boosté , on donne egalement une invincibilité et une autre vie
 			boost3 = false;
-			Invincible ();
+			Invincible (true);
 			vie += 1;
+			gameobj.GetComponent<UnityEngine.UI.Text> ().color = Color.yellow;
+			AffichageBoost.GetComponent<UnityEngine.UI.Image> ().enabled = false;
 		}
 	}
 
 	private void TirSup(){
+		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(laserUp);
 		GameObject gameobj = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
 		gameobj.GetComponent<UnityEngine.UI.Text> ().text = "Puissance de feu";
 		temps3 = Time.fixedTime + duree;
 		boost = true;
 
+		AffichageLaser.GetComponent<Cooldown> ().setCooldown (temps3 - Time.fixedTime);
+
 		if (boost3) { //quand le bonus est boosté, on augmente la cadence de tir
 			boost3 = false;
 			ecart = 0.1f;
+			gameobj.GetComponent<UnityEngine.UI.Text> ().color = Color.yellow;
+			AffichageBoost.GetComponent<UnityEngine.UI.Image> ().enabled = false;
 		}
 	}
 
-	private void Invincible(){
-		GameObject gameobj = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
-		gameobj.GetComponent<UnityEngine.UI.Text> ().text = "Invincible";
-
-		gameobj = (GameObject)Instantiate (shield, this.gameObject.transform);
+	private void Invincible(bool activate){
+		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(Shield);
+		GameObject gameobj = (GameObject)Instantiate (shield, this.gameObject.transform);
 		gameobj.transform.position = this.gameObject.transform.position;
 
-		if (boost3) { //quand le bonus est boosté, l'invincibilité dure deux fois plus longtemps et renvoit les projectiles
-			boost3 = false;
-			Destroy (gameobj, duree * 2.5f);
-			gameobj.GetComponent<Renvoyer> ().setRenvoyer (true);
+		if (!(activate)) {
+			Destroy (gameobj, 2.5f);
+		} else {
+			GameObject gameobj2 = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
+			gameobj2.GetComponent<UnityEngine.UI.Text> ().text = "Bouclier";
+			if (boost3) 
+				gameobj2.GetComponent<UnityEngine.UI.Text> ().color = Color.yellow;
 		}
-		else
+
+		if (boost3 && activate) { //quand le bonus est boosté, l'invincibilité dure deux fois plus longtemps et renvoit les projectiles
+			boost3 = false;
+			Destroy (gameobj, duree * 1.5f);
+			gameobj.GetComponent<Renvoyer> ().setRenvoyer (true);
+			gameobj.GetComponent<SpriteRenderer> ().color = Color.yellow;
+			AffichageShield.GetComponent<Cooldown> ().setCooldown (duree * 1.5f);
+			AffichageBoost.GetComponent<UnityEngine.UI.Image> ().enabled = false;
+		} else {
 			Destroy (gameobj, duree);
+			AffichageShield.GetComponent<Cooldown> ().setCooldown (duree);
+		}
 	}
 
 	private void Destruction(){
+		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(Destr);
 		GameObject gameobj = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
 		gameobj.GetComponent<UnityEngine.UI.Text> ().text = "Destruction";
 
@@ -292,6 +324,8 @@ public class Joueur : MonoBehaviour {
 		foreach (BaseEnnemi enn in liste) {
 			enn.perdreVie (10 + Random.Range(1,10));
 			if (boost3) { //Quand l'effet est boosté, detruit tous les ennemis à l'exception du boss
+				AffichageBoost.GetComponent<UnityEngine.UI.Image> ().enabled = false;
+				gameobj.GetComponent<UnityEngine.UI.Text> ().color = Color.yellow;
 				boost3 = false;
 				foreach (BaseEnnemi enn2 in liste) {
 					if (enn2.gameObject == GameObject.FindObjectOfType<BossBleu>())
@@ -302,6 +336,7 @@ public class Joueur : MonoBehaviour {
 	}
 
 	private void Perforant(){
+		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(perforating);
 		GameObject gameobj = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
 		gameobj.GetComponent<UnityEngine.UI.Text> ().text = "Perforant";
 		degat = 2;
@@ -312,14 +347,19 @@ public class Joueur : MonoBehaviour {
 			boost3 = false;
 			degat = 3;
 			temps5 += duree * 1.5f;
+			gameobj.GetComponent<UnityEngine.UI.Text> ().color = Color.yellow;
+			AffichageBoost.GetComponent<UnityEngine.UI.Image> ().enabled = false;
 		}
 
+		AffichagePerforant.GetComponent<Cooldown> ().setCooldown (temps5 - Time.fixedTime);
 		boost2 = true;
 	}
 
 	private void BoosterBonus(){
+		GameObject.Find("Son").GetComponent<AudioSource>().PlayOneShot(sonBoost);
 		GameObject gameobj = (GameObject)Instantiate (affichageBonus,GameObject.Find("Canvas").transform);
 		gameobj.GetComponent<UnityEngine.UI.Text> ().text = "Bonus Boost";
 		boost3 = true;
+		AffichageBoost.GetComponent<UnityEngine.UI.Image> ().enabled = true;
 	}
 }

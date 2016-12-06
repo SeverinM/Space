@@ -56,7 +56,7 @@ public class BossBleu : BaseEnnemi {
 			ecart = 0.2f;
 		
 		if (avance)
-			transform.position += new Vector3 (0, -0.005f, 0);
+			transform.position += new Vector3 (0, -0.007f, 0);
 		
 		if (transform.position.y < 1 && !(passage)) {
 			GameObject.Find ("Musique").GetComponent<AudioSource> ().volume = 1;
@@ -148,7 +148,7 @@ public class BossBleu : BaseEnnemi {
 		Vector3 centre = GetComponent<SpriteRenderer> ().bounds.center;
 
 		for (float i = centre.x - (taille.x / 1.8f); i < centre.x + (taille.x / 1.8f); i += 0.5f) {
-			GameObject gob = SimplePool.Spawn (projectileSimple, new Vector3 (i + (0.25f * (ligne % 2)), centre.y), new Quaternion());
+			GameObject gob = SimplePool.Spawn (projectileSimple, new Vector3 (i + (0.25f * (ligne % 2) + Random.Range(-0.02f,0.02f)), centre.y), new Quaternion());
 			gob.GetComponent<SpriteRenderer> ().color = Color.white;
 			gob.tag = "EnnemyBullet";
 

@@ -18,6 +18,8 @@ public class VaisseauViolet : BaseEnnemi {
 		vie = 7;
 		score = 4;
 		pvMax = vie;
+
+
 	}
 	
 	// Update is called once per frame
@@ -32,7 +34,7 @@ public class VaisseauViolet : BaseEnnemi {
 	protected void Shoot(){
 		float angle = Mathf.PI / 8;
 		float vitproj = Random.Range (0.02f, 0.03f);
-		for (float i = 0; i < Mathf.PI * 2; i += angle) {
+		for (float i = 0 + Random.Range(-0.05f,0.05f); i < Mathf.PI * 2; i += angle) {
 			gob = SimplePool.Spawn (obj, transform.position, new Quaternion ());
 			gob.transform.localScale = new Vector3 (0.6f, 0.6f, 1);
 			BaseProjectile proj = gob.GetComponent<BaseProjectile> ();

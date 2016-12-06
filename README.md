@@ -14,7 +14,25 @@ I made this game to learn how to use unity but also to show my personnal project
 
 ## How to launch the game : 
 
-Just download the Space.exe standalone
+Just download the Space.exe standalone.
+
+##Screenshots :
+
+
+### Menu
+![Menu](https://raw.github.com/SeverinM/Space/master/images/MenuScreen.png)
+
+### Regular battle
+![Battle](https://raw.github.com/SeverinM/Space/master/images/Battle1.png)
+![Battle](https://raw.github.com/SeverinM/Space/master/images/Battle2.png)
+![Battle](https://raw.github.com/SeverinM/Space/master/images/Battle3.png)
+
+### Boss battle
+![Boss](https://raw.github.com/SeverinM/Space/master/images/Boss.png)
+
+### Game Over
+
+![Game Over](https://raw.github.com/SeverinM/Space/master/images/GameOver.png)
 
 ## Code description : 
 
@@ -48,4 +66,4 @@ Musics made by Léo Juriens (SoundCloud : https://soundcloud.com/last-nova)
 
 ## License : 
 
-this project is under MIT license
+<img src="images/MIT-logo.png" width="200">
