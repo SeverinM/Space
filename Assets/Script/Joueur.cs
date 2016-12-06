@@ -57,7 +57,7 @@ public class Joueur : MonoBehaviour {
 		boost = false;
 		boost2 = false;
 		boost3 = false;
-		duree = 10f;
+		duree = 7f;
 		degat = 1;
 	}
 	

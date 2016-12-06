@@ -34,7 +34,7 @@ public class Charger : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
+		ecart2 = Random.Range(50,70);
 		fin = false;
 
 		SimplePool.Preload (projectilesimple, 300);

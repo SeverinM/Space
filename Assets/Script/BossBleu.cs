@@ -52,8 +52,8 @@ public class BossBleu : BaseEnnemi {
 	
 	// Update is called once per frame
 	void Update () {
-		if (ecart < 0.15f) //Par soucis de performance, on cap le boss
-			ecart = 0.2f;
+		if (ecart < 0.27f) //Par soucis de performance, on cap le boss
+			ecart = 0.27f;
 		
 		if (avance)
 			transform.position += new Vector3 (0, -0.007f, 0);
