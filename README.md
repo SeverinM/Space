@@ -20,19 +20,19 @@ Just download the Space.exe standalone.
 
 
 ### Menu
-![Menu](https://raw.github.com/SeverinM/Space/master/images/MenuScreen.png)
+![Menu](https://github.com/SeverinM/Space/blob/Test/images/MenuScreen.png)
 
 ### Regular battle
 ![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle1.png)
-![Battle](https://raw.github.com/SeverinM/Space/master/images/Battle2.png)
-![Battle](https://raw.github.com/SeverinM/Space/master/images/Battle3.png)
+![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle2.png)
+![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle3.png)
 
 ### Boss battle
-![Boss](https://raw.github.com/SeverinM/Space/master/images/Boss.png)
+![Boss](https://github.com/SeverinM/Space/blob/Test/images/Boss.png)
 
 ### Game Over
 
-![Game Over](https://raw.github.com/SeverinM/Space/master/images/GameOver.png)
+![Game Over](https://github.com/SeverinM/Space/blob/Test/images/GameOver.png)
 
 ## Code description : 
 
