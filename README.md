@@ -24,15 +24,15 @@ Just download the Space.exe standalone.
 
 ### Regular battle
 ![Battle](https://www.dropbox.com/s/pjgbjrosyy5dsay/Battle1.png?dl=0&raw=true)
-![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle2.png)
-![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle3.png)
+![Battle](https://www.dropbox.com/s/mj9wuoeioqfvpj9/Battle2.png?dl=0&raw=true)
+![Battle](https://www.dropbox.com/s/fjpr796lg7adjs6/Battle3.png?dl=0&raw=true)
 
 ### Boss battle
-![Boss](https://github.com/SeverinM/Space/blob/Test/images/Boss.png)
+![Boss](https://www.dropbox.com/s/j28s0bj89iiwp8g/Boss.png?dl=0&raw=true)
 
 ### Game Over
 
-![Game Over](https://github.com/SeverinM/Space/blob/Test/images/GameOver.png)
+![Game Over](https://www.dropbox.com/s/dqnn8vrs81oipt9/GameOver.png?dl=0&raw=true)
 
 ## Code description : 
 
