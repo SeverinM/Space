@@ -23,7 +23,7 @@ Just download the Space.exe standalone.
 ![Menu](https://github.com/SeverinM/Space/blob/Test/images/MenuScreen.png)
 
 ### Regular battle
-![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle1.png)
+![Battle](https://www.dropbox.com/s/pjgbjrosyy5dsay/Battle1.png?dl=0&raw=true)
 ![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle2.png)
 ![Battle](https://github.com/SeverinM/Space/blob/Test/images/Battle3.png)
 
